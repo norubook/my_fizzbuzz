@@ -2,7 +2,7 @@
 
 いろいろな言語でfizzbuzzを作ってみよう
 
-Let's make "fizzbuzz" with some programｍing language.
+Let's make "fizzbuzz" with some programming language.
 
 # fizzbuzzとは
 
@@ -12,4 +12,3 @@ Let's make "fizzbuzz" with some programｍing language.
 
 for(or while)文とif文の両方を使うためプログラム初心者に
 ぴったりな課題です．
-
